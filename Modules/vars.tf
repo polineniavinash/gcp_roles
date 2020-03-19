@@ -1,6 +1,6 @@
 variable "project_name" {
   type = string
-  default = "admin-project-257007"
+  default = "admin-xxxx-xxxx7"
 }
 # variable "role_names" {
 #   type = string
@@ -13,5 +13,5 @@ variable "dummy" {
 }
 variable "member_name" {
   type = string
-  default = "user:ravichandrak341@gmail.com"
+  default = "user:ravixxxx@gmail.com"
 }
