@@ -1,10 +1,10 @@
 variable "input_project" {
   type = string
-  default = "admin-project-257007"
+  default = "admin-xxxx-xxx7"
 }
 variable "input_member" {
   type = string
-  default = "user:ravichandrak341@gmail.com"
+  default = "user:ravixxxx@gmail.com"
 }
 variable "multiple_roles" {
   type = list(string)
